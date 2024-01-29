@@ -1,2 +1,6 @@
 Hello!
+<<<<<<< HEAD
 Hallo zurück von Joos
+=======
+Hallo von Sebastian
+>>>>>>> 92aaca06757a1481403c834c3ba6818a33c986e4
